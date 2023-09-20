@@ -10,6 +10,9 @@ int main(){
 void quicksort()
 
 {
+    void mergeSort(){
+        
+    }
 cout<<"Sekhar";
 cout<<"Parida";
 }
